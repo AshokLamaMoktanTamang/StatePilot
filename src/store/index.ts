@@ -1,4 +1,4 @@
-import { createAppStore } from "../../lib";
+import { createAppStore } from "../../lib/src";
 import { counterSlice } from "./counter.slice";
 import { formSlice } from "./form.slice";
 

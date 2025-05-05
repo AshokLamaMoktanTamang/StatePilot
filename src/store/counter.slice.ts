@@ -1,4 +1,4 @@
-import { SliceConfig } from "../../lib";
+import { SliceConfig } from "../../lib/src";
 
 export const counterSlice: SliceConfig<{ count: number }> = {
   name: "counter",

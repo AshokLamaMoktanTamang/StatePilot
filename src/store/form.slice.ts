@@ -1,4 +1,4 @@
-import { SliceConfig } from "../../lib";
+import { SliceConfig } from "../../lib/src";
 
 interface UserFormState {
   name: string;
